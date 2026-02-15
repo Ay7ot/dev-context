@@ -1,9 +1,12 @@
 {
   "version": "1.1.0",
-  "lastSync": "2026-02-15T14:55:20.338Z",
+  "lastSync": "2026-02-15T14:59:40.103Z",
   "files": {
     "state.age": {
-      "lastModified": "2026-02-15T14:30:04.069Z"
+      "lastModified": "2026-02-15T14:59:40.103Z"
+    },
+    "mental-context.age": {
+      "lastModified": "2026-02-15T14:59:40.093Z"
     }
   }
 }
